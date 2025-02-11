@@ -1,0 +1,13 @@
+database connectedId,Name,Email,Status,Qualification
+3,Shubham,skori1000@gmail.com,Active,BSc.IT
+4,Vicky,viks245@gmail.com,Active,B.Tech
+5,Prash,prash2419@gmail.com,Active,BSc.IT
+6,Ananya,anu@29gmail.com,Inactive,B.E
+7,Kaka,kak2@gmail.com,Active,BCA
+20,shubham,skori@gmail.com,active,Bsc.IT
+21,prachi,prashu@gmail.com,inactive,Msc.IT
+22,prashu,123@gmail.com,active,Teacher
+23,﻿name,email,status,Qualification
+24,shubham,skori@gmail.com,active,Bsc.IT
+25,prachi,prashu@gmail.com,inactive,Msc.IT
+26,prashu,123@gmail.com,active,Teacher
